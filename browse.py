@@ -1,6 +1,8 @@
+#! /usr/bin/env python3
+
 import random, requests, time
 
-groups = ("Social", "Normal", "Marketing", "Tech", "Gamers", "Dev", "Sales", "Streaming")
+groups = ("Social", "Normal", "Marketing", "Tech", "Gamers", "Dev", "Sales", "Streaming", "Sports")
 
 while True:
 	group = random.choice(groups)
@@ -9,7 +11,7 @@ while True:
 	for url in urls:
 		try:
 			r=requests.get(url)
-			print url, r.status_code	
+			print(url, r.status_code)
 		except:
 			pass
 

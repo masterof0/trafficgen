@@ -190,99 +190,12 @@ Streaming = (
         "http://www.megavideomovies.com/",
         "https://www.netflix.com/us/"
         )
-Protected = (
-        "https://securitytest.zsdemo.com/ddtest/install_flash_player.exe.zs",
-        "https://securitytest.zsdemo.com/ddtest/badrabbit_2.exe.zs",
-        "http://securitytest.zsdemo.com/ba-demo/wannacry.bin",
-        "http://securitytest.zsdemo.com/ba-demo/TesCrypt_Ransomware.exe.zs",
-        "http://securitytest.zsdemo.com/ba-demo/Maktub_Ransomware.exe.zs",
-        "http://securitytest.zsdemo.com/ba-demo/apk_576095b448550253b0241195d5963377.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_576095b448550253b0241195d5963377.bin",
-        "http://securitytest.zsdemo.com/malicious/archive/depth/eicar_2.zip",
-        "http://securitytest.zsdemo.com/malicious/archive/depth/eicar_5.zip",
-        "http://securitytest.zsdemo.com/ba-demo/333.ex_",
-        "http://securitytest.zsdemo.com/ba-demo/fdjshjdhszjfhdjh.ex_",
-        "http://securitytest.zsdemo.com/ba-demo/18.ex_",
-        "http://securitytest.zsdemo.com/ba-demo/2-gz.ex_",
-        "http://securitytest.zsdemo.com/ba-demo/0-scstmp.ex_",
-        "http://securitytest.zsdemo.com/ba-demo/0004.ex_",
-        "http://securitytest.zsdemo.com/malicious/embedded/test.ppt",
-        "http://securitytest.zsdemo.com/malicious/boot/flpy-eic",
-        "http://securitytest.zsdemo.com/malicious/packers/w32_test_sample_PEX0.99.exe",
-        "http://securitytest.zsdemo.com/malicious/packers/w32_test_sample_PELock2.04_secondLayer.exe",
-        "http://securitytest.zsdemo.com/malicious/packers/w32_test_sample_StnPee1.13.exe",
-        "http://securitytest.zsdemo.com/malicious/packers/w32_test_sample_PECrypt1.5.exe",
-        "http://securitytest.zsdemo.com/malicious/packers/w32_test_sample_upx_1_93_beta.exe",
-        "http://securitytest.zsdemo.com/malicious/filetypes/test.pdf",
-        "http://securitytest.zsdemo.com/malicious/filetypes/test.jpg",
-        "http://securitytest.zsdemo.com/malicious/filetypes/test.swf",
-        "http://securitytest.zsdemo.com/poc-1.html",
-        "http://securitytest.zsdemo.com/phishing-watermark.html",
-        "http://securitytest.zsdemo.com/xss.php?q=%3Cscript%3Enew+Image().src=%22http%3A//localhost/xss?xss=%22+document.cookie;%3C/script%3E",
-        "http://securitytest.zsdemo.com/metasploit/cve-2010-0483.html",
-        "http://securitytest.zsdemo.com/metasploit/cve-2010-0886.html",
-        "http://securitytest.zsdemo.com/metasploit/cve-2010-0806.html",
-        "http://securitytest.zsdemo.com/metasploit/cve-2010-0805.html",
-        "http://securitytest.zsdemo.com/metasploit/cve-2010-0249.html",
-        "http://securitytest.zsdemo.com/metasploit/JSObfusc1.htm",
-        "http://securitytest.zsdemo.com/metasploit/JSObfusc2.htm",
-        "http://securitytest.zsdemo.com/phishing-watermark.html",
-        "http://securitytest.zsdemo.com/ba-demo/exe_kryptik_28ed1c7abbb4079357a871a4720c61a3.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_httpbrowser_rat_728e5700a401498d91fb83159beec834.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_zbot_29cfe7c381e40ddc3473a4eda43a9a23.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2e107055221d25bb7925cd031f48876f.bin",
-        "http://securitytest.zsdemo.com/ba-demo/pdf_0405e9875db1638b290b44609463296c.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2E107055221D25BB7925CD031F48876F.bin"
-        "http://securitytest.zsdemo.com/ba-demo/exe_kryptik_28ed1c7abbb4079357a871a4720c61a3.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_httpbrowser_rat_728e5700a401498d91fb83159beec834.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_zbot_29cfe7c381e40ddc3473a4eda43a9a23.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2e107055221d25bb7925cd031f48876f.bin",
-        "http://securitytest.zsdemo.com/ba-demo/pdf_0405e9875db1638b290b44609463296c.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2E107055221D25BB7925CD031F48876F.bin"
-        "http://securitytest.zsdemo.com/ba-demo/exe_kryptik_28ed1c7abbb4079357a871a4720c61a3.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_httpbrowser_rat_728e5700a401498d91fb83159beec834.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_zbot_29cfe7c381e40ddc3473a4eda43a9a23.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2e107055221d25bb7925cd031f48876f.bin",
-        "http://securitytest.zsdemo.com/ba-demo/pdf_0405e9875db1638b290b44609463296c.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2E107055221D25BB7925CD031F48876F.bin"
-        "http://securitytest.zsdemo.com/ba-demo/exe_kryptik_28ed1c7abbb4079357a871a4720c61a3.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_httpbrowser_rat_728e5700a401498d91fb83159beec834.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_zbot_29cfe7c381e40ddc3473a4eda43a9a23.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2e107055221d25bb7925cd031f48876f.bin",
-        "http://securitytest.zsdemo.com/ba-demo/pdf_0405e9875db1638b290b44609463296c.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2E107055221D25BB7925CD031F48876F.bin"
-        "http://securitytest.zsdemo.com/ba-demo/exe_kryptik_28ed1c7abbb4079357a871a4720c61a3.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_httpbrowser_rat_728e5700a401498d91fb83159beec834.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_zbot_29cfe7c381e40ddc3473a4eda43a9a23.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2e107055221d25bb7925cd031f48876f.bin",
-        "http://securitytest.zsdemo.com/ba-demo/pdf_0405e9875db1638b290b44609463296c.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2E107055221D25BB7925CD031F48876F.bin"
-        "http://securitytest.zsdemo.com/ba-demo/exe_kryptik_28ed1c7abbb4079357a871a4720c61a3.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_httpbrowser_rat_728e5700a401498d91fb83159beec834.bin",
-        "http://securitytest.zsdemo.com/ba-demo/exe_zbot_29cfe7c381e40ddc3473a4eda43a9a23.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2e107055221d25bb7925cd031f48876f.bin",
-        "http://securitytest.zsdemo.com/ba-demo/pdf_0405e9875db1638b290b44609463296c.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2E107055221D25BB7925CD031F48876F.bin",
-
-        "http://securitytest.zsdemo.com/ba-demo/doc_2e107055221d25bb7925cd031f48876f.bin",
-        "http://securitytest.zsdemo.com/ba-demo/pdf_0405e9875db1638b290b44609463296c.bin",
-        "http://securitytest.zsdemo.com/ba-demo/doc_2E107055221D25BB7925CD031F48876F.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_cf36996d560aa3c0a0050a0b8f3cc7fc.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_cf36996d560aa3c0a0050a0b8f3cc7fc.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_cf36996d560aa3c0a0050a0b8f3cc7fc.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_cf36996d560aa3c0a0050a0b8f3cc7fc.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_cf36996d560aa3c0a0050a0b8f3cc7fc.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_6ed2451d1300ff75e793744bb3563638.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_6ed2451d1300ff75e793744bb3563638.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_6ed2451d1300ff75e793744bb3563638.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_6ed2451d1300ff75e793744bb3563638.bin",
-        "http://securitytest.zsdemo.com/ba-demo/apk_6ed2451d1300ff75e793744bb3563638.bin" 
-        )
 Infected = (
         "http://evil.com/vid/?id=0",
-        "http://securitytest.zsdemo.com/malicious/trojan.txt"
         )
-
-secure_browsing = (
-        "https://gateway.zscaler.net/auW?_sm_wac=osW7-beGK-beGK20.0-brFF10.0-flsh9.7.700-silv5.1.20125.0-flsh11.5.502-divx-qtim5.6.9-divx2.1.1.94-moff12.0.4518.1014-flsM-&origurl=http%3A%2F%2Fgoogle.com%2F"
-        )
+Sports = (
+        "http://www.espn.com",
+        "http://si.com/",
+        "http://www.foxsports.com/",
+        "http://www.sports.yahoo.com/"
+)
