@@ -200,9 +200,5 @@ Sports = (
         "http://www.sports.yahoo.com/"
 )
 IOC = (
-        "http://74.208.236.214"
-)
-
-IOC2 = (
         "http://hillwork.com/attdemo/"
 )

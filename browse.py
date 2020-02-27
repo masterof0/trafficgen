@@ -2,7 +2,7 @@
 
 import random, requests, time
 
-groups = ("Social", "Normal", "Marketing", "Tech", "Gamers", "Dev", "Sales", "Streaming", "Sports", "IOC2")
+groups = ("Social", "Normal", "Marketing", "Tech", "Gamers", "Dev", "Sales", "Streaming", "Sports", "IOC")
 
 while True:
 	group = random.choice(groups)
