@@ -12,6 +12,7 @@ while True:
 		try:
 			r=requests.get(url)
 			print(url, r.status_code)
+			time.sleep(random.randint(10,45))
 		except:
 			pass
 
